@@ -1,5 +1,5 @@
 <h2>Seats selection map (plane, train, bus)</h2>
-<b>Alpha version 1</b>
+<b>This is and Alpha version 1!</b>
 <br>
 <ul>
   <li>Js</li>
