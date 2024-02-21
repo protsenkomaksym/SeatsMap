@@ -4,6 +4,7 @@
 <ul>
   <li>Js</li>
   <li>Jquery</li>
+  <li>Bootstrap 5</li>
 </ul>
 <br>
 Seats selection map:
